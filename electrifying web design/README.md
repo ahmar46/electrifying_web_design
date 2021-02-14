@@ -1,1 +1,1 @@
-### This is a Responsive Web
+### This is a Responsive Website.
