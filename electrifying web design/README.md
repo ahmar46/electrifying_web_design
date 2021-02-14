@@ -1,3 +1,3 @@
 ### This is a Responsive Website.
 
-### Technologies Us
+### Technologies Uses
