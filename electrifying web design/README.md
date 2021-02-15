@@ -1,3 +1,3 @@
 ### This is a Responsive Website.
 
-### Technologies Used: HTML, CSS &
+### Technologies Used: HTML, CSS & Java
