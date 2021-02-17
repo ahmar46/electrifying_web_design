@@ -1,4 +1,4 @@
-### This is a Responsive Website made.
+### This is a Responsive Website made j.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
