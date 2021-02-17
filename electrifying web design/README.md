@@ -1,4 +1,4 @@
-### This is a dummy Responsive Website m.
+### This is a dummy Responsive Website .
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
