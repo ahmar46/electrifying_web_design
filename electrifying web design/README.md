@@ -1,4 +1,4 @@
-### This is a Responsive Website m.
+### This is a Responsive Website ma.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
