@@ -1,4 +1,4 @@
-### This is a duResponsive Website made j.
+### This is a dum Responsive Website made j.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
